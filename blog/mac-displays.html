@@ -363,6 +363,42 @@
                 <p class="subscript">110 PPI 2560x1440 27" example from earlier, hard to tell in a small size but it doesn't look good</p>
             </div>
 
+            <p>
+                So what happens without subpixel anti-aliasing? The two screenshots below show. The screenshot taken
+                from my monitor set to 2560x1440 2x is tack-sharp even on such a zoomed-in scale. But when I set my display
+                manually to 2560x1440 1x, this is how macOS treats font. The result is a blocky, pixelated look due to the way
+                macOS prioritizes keeping font accuracy over font clarity, a key design spearheaded by Steve Jobs. The reason
+                why Windows is able to display font so well on low-resolution displays is because Windows prioritizes clarity over
+                accuracy, and slightly alters the font to ensure a sharp divide of pixels. MacOS anti-aliases font, but still dropped
+                subpixel anti-aliasing.
+            </p>
+
+            <div class="image-view">
+                <div class="single-image-view">
+                    <img
+                        src="../images/menubar2x-native.heic"
+                         alt="Menu Bar 2x native 560x30"
+                         class="screenshot"
+                    >
+                    <p class="subscript">Menu bar 2x native 560x60 (280x30 dots)</p>
+                </div>
+                <div class="single-image-view">
+                    <img
+                        src="../images/menubar1x.heic"
+                        alt="Menu Bar 1x native 280x30"
+                        class="screenshot"
+                    >
+                    <p class="subscript">Menu bar 1x native 280x30 (280x30 dots)</p>
+                </div>
+            </div>
+
+            <p>
+                When you use a 4K 27" display, despite not perfectly aligning to macOS's preference of 220 PPI,
+                you still give macOS more pixels to work with to add detail and create a smoother font. Scaling a
+                4K 27" display to "looks like 2560x1440" does have a clarity penalty, but its significantly less
+                than the standard output of 1x scaling for a 27" 1440p display.
+            </p>
+
             <h2>Source Analysis</h2>
 
             <h3>What about Bjango's graph?</h3>
