@@ -4,6 +4,7 @@
 University Student at SJSU studying Software Engineering and make things on the side
 
 🛠️ **Tech Stack**
+
 ![JavaScript](https://img.shields.io/badge/JavaScript-F0DB4F?style=for-the-badge&logo=JavaScript&logoColor=black)
 ![CSS](https://img.shields.io/badge/CSS-663399?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML](https://img.shields.io/badge/HTML-E34C26?style=for-the-badge&logo=HTML5&logoColor=white)
