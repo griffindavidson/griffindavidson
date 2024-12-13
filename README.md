@@ -20,6 +20,6 @@ University Student at SJSU studying Software Engineering and make things on the 
 </p>
 
 🤝 **Connect With Me**
-- [LinkedIn](https://linkedin.com/in/griffindavidson)
+- [LinkedIn](https://www.linkedin.com/in/griffin-davidson-341397228/)
 - [Website](https://griffindavidson.com)
 - [Blog](https://griffindavidson.com/blog)
