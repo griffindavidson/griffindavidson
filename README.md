@@ -17,6 +17,7 @@ University Student at SJSU studying Software Engineering and make things on the 
 🔭 **Featured Projects**
 - [CMPE 165 LikeHome](https://github.com/GreenXDShadow/CMPE165HotelProject) - A Hotels.com clone project created using Agile development
 - [CMPE 172 Database](https://github.com/griffindavidson/172project) - A database project that queries a database with a clean and elegant front end
+- [My Webpage](https://griffindavidson.com/) - My personal webpage that is currently a work-in-progress while I'm busy with college
 
 📊 **GitHub Stats**
 <p align="center">
