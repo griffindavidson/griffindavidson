@@ -19,6 +19,7 @@ University Student at SJSU studying Software Engineering and make things on the 
 - [CMPE 172 Database](https://github.com/griffindavidson/172project) - A database project that queries a database with a clean and elegant front end
 - [CMPE 195 Hollistic Cancer Care](https://github.com/griffindavidson/cmpe195a-project) - An AI-powered project that summarizes and simplfies the lastest ground-breaking scientific articles for the masses
 - [My Webpage](https://griffindavidson.com/) - My personal webpage that is currently a work-in-progress while I'm busy with college
+- [LLM Web GUI](https://github.com/griffindavidson/llm-web-gui) - A Web GUI for running LLMs locally on your device, for example, DeepSeek-R1
 
 📊 **GitHub Stats**
 <p align="center">
