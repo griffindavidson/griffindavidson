@@ -1,7 +1,7 @@
 # Griffin Davidson
-### Software Engineer Major
+### Software Engineer Graduate
 
-University Student at SJSU studying Software Engineering and make things on the side
+San José State University Graduate with a Bachelors in Software Engineering and make things on the side
 
 🛠️ **Tech Stack**
 
